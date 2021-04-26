@@ -6,6 +6,7 @@ The company is looking at prospective properties to buy to enter the market. You
 
 The company wants to know the following things about the prospective properties:
 
-**Which variables are significant in predicting the price of a house, and 
-1. How well those variables describe the price of a house.
-**2. Also, determine the optimal value of lambda for ridge and lasso regression.**
+**Which variables are significant in predicting the price of a house, and **
+**1. How well those variables describe the price of a house.
+2. Also, determine the optimal value of lambda for ridge and lasso regression.
+**
